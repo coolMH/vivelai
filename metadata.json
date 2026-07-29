@@ -1,0 +1,6 @@
+{
+  "name": "Vivel AI",
+  "description": "Professional AI image editing suite with watermark remover, background remover, image resizer, quality enhancer, and bulk processing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
